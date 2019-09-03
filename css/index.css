@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+body canvas {
+  border: 1px solid black;
+}
+/*# sourceMappingURL=index.css.map */
